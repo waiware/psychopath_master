@@ -23,7 +23,7 @@
     "@trpc/server": "^11.0.0-rc.608",
     "client-only": "^0.0.1",
     "cookie": "^1.0.1",
-    "next": "15.0.2",
+    "next": "15.0.3",
     "notistack": "^3.0.1",
     "react": "19.0.0-rc-fb9a90fa48-20240614",
     "react-dom": "19.0.0-rc-fb9a90fa48-20240614",
